@@ -63,4 +63,4 @@
 set :stage, :production
 
 set :branch, 'prod'
-set :deploy_to, '/home/vm/www/deploy'
+set :deploy_to, '/home/vm/www/fripeetchic'
